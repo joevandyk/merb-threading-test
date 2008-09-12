@@ -1,0 +1,300 @@
+Fri, 05 Sep 2008 23:42:28 GMT  ~  info  ~  Logfile created
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sat Sep 06 03:16:04 +0300 2008
+ ~ Params: {"_session_id"=>"499033e5b7401e6c40ce77d868fc9513", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.000569, :action_time=>0.000242, :after_filters_time=>1.2e-05}
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sat Sep 06 13:08:31 +0300 2008
+ ~ Params: {"_session_id"=>"bb53e4b1ed5310679962930a75983dc2", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.00052, :action_time=>0.000242, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 13:59:55 +0300 2008
+ ~ Params: {"_session_id"=>"156f5b7fad95061e24a4ee5283fa017a", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.00056, :action_time=>0.000257, :after_filters_time=>1.3e-05}
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Not Using Sessions
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sat Sep 06 14:41:47 +0300 2008
+ ~ Params: {"_session_id"=>"216f023349ee8c172d30bea929c5b938", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000563, :action_time=>0.000239, :after_filters_time=>1.2e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sat Sep 06 14:43:11 +0300 2008
+ ~ Params: {"_session_id"=>"9b655f006116a2bf01a0ffabf658be08", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000517, :action_time=>0.000241, :after_filters_time=>1.3e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sat Sep 06 14:45:24 +0300 2008
+ ~ Params: {"_session_id"=>"629c2ea6bc834b3e986766c24e36e9ca", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000931, :action_time=>0.000645, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 14:46:38 +0300 2008
+ ~ Params: {"_session_id"=>"e6a773f0a849f0c52bec6937af145a79", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000513, :action_time=>0.000237, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 15:26:11 +0300 2008
+ ~ Params: {"_session_id"=>"60e5d006ec7d3de977cdfb3d8bda837d", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000513, :action_time=>0.000236, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 15:44:06 +0300 2008
+ ~ Params: {"_session_id"=>"8bb1c47edbfac3ec4dcbb606eb282056", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000515, :before_filters_time=>1.3e-05, :action_time=>0.000237, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 15:49:45 +0300 2008
+ ~ Params: {"_session_id"=>"6d11156e6a6da0116a62f6efec902f47", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.00051, :action_time=>0.000236, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 16:06:44 +0300 2008
+ ~ Params: {"_session_id"=>"8d7a672d293f3d716a753c0264a366fd", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.000629, :action_time=>0.000247, :after_filters_time=>1.3e-05}
+ ~ Started request handling: Sat Sep 06 16:08:24 +0300 2008
+ ~ Params: {"_session_id"=>"4747f5c5669186428b24fdccccdf94bc", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.000531, :action_time=>0.000243, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 16:47:39 +0300 2008
+ ~ Params: {"_session_id"=>"b8a2319541fa08a5f06b2759e070fae0", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.000523, :action_time=>0.00024, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 16:54:45 +0300 2008
+ ~ Params: {"_session_id"=>"a7b177f574f025aa82b3ec3762cb2916", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.00053, :before_filters_time=>1.4e-05, :action_time=>0.000242, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 16:58:21 +0300 2008
+ ~ Params: {"_session_id"=>"a82700996822e3ad0b0d035c49698f12", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000761, :before_filters_time=>1.4e-05, :action_time=>0.000241, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 17:13:04 +0300 2008
+ ~ Params: {"_session_id"=>"7f96637b507807bbadcdb3b64e92f46f", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.00052, :before_filters_time=>1.3e-05, :action_time=>0.000241, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 17:16:11 +0300 2008
+ ~ Params: {"_session_id"=>"217f64d47e21b54e306d54451f0570b0", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000838, :before_filters_time=>1.4e-05, :action_time=>0.000244, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 17:25:54 +0300 2008
+ ~ Params: {"_session_id"=>"ed8e1213466fa2d47a8e57a6ab01ee24", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000534, :before_filters_time=>1.4e-05, :action_time=>0.000236, :after_filters_time=>1.1e-05}
+ ~ Started request handling: Sat Sep 06 22:59:35 +0300 2008
+ ~ Params: {"_session_id"=>"f9e40f203ec751d8340cf3d24ada3165", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.5e-05, :dispatch_time=>0.000521, :action_time=>0.000244, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sat Sep 06 23:45:22 +0300 2008
+ ~ Params: {"_session_id"=>"0a876e5ddbd05ac239fcc0c1f719ea69", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.4e-05, :dispatch_time=>0.000516, :action_time=>0.000236, :after_filters_time=>1.1e-05}
+ ~ Started request handling: Sat Sep 06 23:46:46 +0300 2008
+ ~ Params: {"_session_id"=>"1d0e7495e3987c446e95500324df8a07", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000526, :action_time=>0.00024, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sun Sep 07 01:17:58 +0300 2008
+ ~ Params: {"_session_id"=>"c2d8f95b466348abc0c5a6699a62c33b", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000628, :action_time=>0.000242, :after_filters_time=>1.2e-05}
+ ~ Started request handling: Sun Sep 07 01:19:46 +0300 2008
+ ~ Params: {"_session_id"=>"dbacdcf996a0864c048a45b36a9a7269", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000575, :before_filters_time=>1.4e-05, :action_time=>0.000258, :after_filters_time=>1.3e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sun Sep 07 01:42:47 +0300 2008
+ ~ Params: {"_session_id"=>"af7cfc5abee59ac3a3574b87f84e4dd6", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ {:action_time=>0.000153, :before_filters_time=>1.3e-05, :dispatch_time=>0.000424, :after_filters_time=>1.2e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sun Sep 07 01:46:44 +0300 2008
+ ~ Params: {"_session_id"=>"94aee1f23d1f8ee94ff8343b86ae0fa1", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000515, :action_time=>0.000239, :after_filters_time=>1.3e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Sun Sep 07 01:50:21 +0300 2008
+ ~ Params: {"_session_id"=>"2f8655a7925fb1f518af25c6adddd4a7", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:dispatch_time=>0.000512, :before_filters_time=>1.3e-05, :action_time=>0.000237, :after_filters_time=>1.3e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Mon Sep 08 15:27:04 +0300 2008
+ ~ Params: {"_session_id"=>"769792bfbdbaf5c33a5d4af888a61811", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000545, :action_time=>0.000254, :after_filters_time=>1.2e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Started request handling: Tue Sep 09 01:15:32 +0300 2008
+ ~ Params: {"_session_id"=>"902689b4385f80ee4c3f6a9b8f3f539a", "action"=>"fixoid", "id"=>"tagging", "controller"=>"merb/test/fixtures/controllers/fixatable_routes"}
+ ~ Fixated session id: _session_id
+ ~ {:before_filters_time=>1.3e-05, :dispatch_time=>0.000517, :action_time=>0.000237, :after_filters_time=>1.2e-05}
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
+ ~ Starting Merb server listening at 0.0.0.0:4000
