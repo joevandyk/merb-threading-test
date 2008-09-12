@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<mime-types>, [">= 0"])
       s.add_runtime_dependency(%q<hpricot>, [">= 0"])
       s.add_development_dependency(%q<libxml-ruby>, [">= 0"])
-      s.add_development_dependency(%q<memcache-client>, [">= 0"])
+      s.add_development_dependency(%q<fiveruns-memcache-client>, [">= 0"])
     else
       s.add_dependency(%q<extlib>, [">= 0.9.5"])
       s.add_dependency(%q<erubis>, [">= 0"])
@@ -44,7 +44,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<mime-types>, [">= 0"])
       s.add_dependency(%q<hpricot>, [">= 0"])
       s.add_dependency(%q<libxml-ruby>, [">= 0"])
-      s.add_dependency(%q<memcache-client>, [">= 0"])
+      s.add_dependency(%q<fiveruns-memcache-client>, [">= 0"])
     end
   else
     s.add_dependency(%q<extlib>, [">= 0.9.5"])
@@ -56,6 +56,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<mime-types>, [">= 0"])
     s.add_dependency(%q<hpricot>, [">= 0"])
     s.add_dependency(%q<libxml-ruby>, [">= 0"])
-    s.add_dependency(%q<memcache-client>, [">= 0"])
+    s.add_dependency(%q<fiveruns-memcache-client>, [">= 0"])
   end
 end
