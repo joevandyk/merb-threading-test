@@ -1,0 +1,27 @@
+== THE PROBLEM
+
+Since merb is threaded, you'd think that running slow actions alongside faster actions
+wouldn't slow down the faster actions.  Since the slow ones are in their own thread.
+
+And that's the case, when the slow actions are slow because you are doing a 'sleep' call
+or something.  But if you are doing a network call inside the slow action, the fast 
+actions don't run as quickly.  Is it because the network call is blocking the other 
+threads in the merb process?
+
+== Details of the test app
+
+There's two actions, a slow one and a fast one.
+
+The slow one loads slashdot.org and tells you how many bytes it is.  
+
+The fast one returns some text. 
+
+To test the fast one, you can run:
+ab -n 1000 -c 100 http://localhost:5000/fast
+
+and to test the slow one:
+ab -n 1000 -c 2 http://localhost:5000/slow
+
+Assuming merb is started on port 5000.  I started merb with this:
+merb -p 5000 -d -X off -e production
+
